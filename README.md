@@ -56,11 +56,17 @@
 
 <p>
 - 🤔 I’m looking for help with ...
+ <br>
       - real-time integration of components that affect SQL entries
+  <br>
 - 💬 Ask me about ...
+  <br>
       - Cycling
+  <br>
       - The memory of rocks
+  <br>
 - ⚡ Fun fact: ...
+  <br>
       - I once rode a bicycle to Alaska from Texas
 </p>
 
