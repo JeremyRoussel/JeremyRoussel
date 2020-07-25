@@ -57,20 +57,19 @@
 <p>
 - 🤔 I’m looking for help with ...
  <br>
-      - real-time integration of components that affect SQL entries
-  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- real-time integration of components that affect SQL entries
+  <br><br>
 - 💬 Ask me about ...
   <br>
-      - Cycling
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Cycling
   <br>
-      - The memory of rocks
-  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The memory of rocks
+  <br><br>
 - ⚡ Fun fact: ...
   <br>
-      - I once rode a bicycle to Alaska from Texas
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I once rode a bicycle to Alaska from Texas
 </p>
 
-<hr>
 
 <br>
 
