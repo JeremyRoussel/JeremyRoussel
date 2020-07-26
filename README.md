@@ -52,7 +52,8 @@
 <p >
   <!-- React -->
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongo&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <!-- MongoDB -->
+  <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <p>
