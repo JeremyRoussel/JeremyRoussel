@@ -51,19 +51,17 @@
 <h4>🌱 I'm currently learning...</h4>
 <p >
   <!-- React -->
-  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongo&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <p>
-- 🤔 I’m looking for help with ...
- <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- real-time integration of components that affect SQL entries
-  <br><br>
+
 - 💬 Ask me about ...
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Cycling
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The memory of rocks
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- How rocks can remember things!
   <br><br>
 - ⚡ Fun fact: ...
   <br>
@@ -74,6 +72,12 @@
 <br>
 
 <!--
+
+- 🤔 I’m looking for help with ...
+ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- real-time integration of components that affect SQL entries
+  <br><br>
+
 **JeremyRoussel/JeremyRoussel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
