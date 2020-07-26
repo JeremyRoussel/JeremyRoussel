@@ -71,9 +71,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I once rode a bicycle to Alaska from Texas
 </p>
 
-
 <br>
+<hr>
 
+<p>
+  - Icons made with shield.io and Simple Icons
+</p>
 <!--
 
 - 🤔 I’m looking for help with ...
