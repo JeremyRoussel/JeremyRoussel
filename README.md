@@ -43,7 +43,7 @@
 <h5>Recent Projects</h5>
 <p>
   <!-- First Node Website -->
-  <a href="https://protected-temple-29912.herokuapp.com/"><img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;Node.JS served website for a band, hosted on Heroku</a>
+  <a href="https://protected-temple-29912.herokuapp.com/"><img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;Node.JS served website for a band, hosted on Heroku</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://jeremyroussel.com/first-back-end-project/"><img src="https://img.shields.io/badge/Personal-%23738A94.svg?&style=for-the-badge&logo=ghost&logoColor=white"/>&nbsp;&nbsp;&nbsp;Blog Write Up</a>
 </p>
 
