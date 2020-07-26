@@ -40,14 +40,20 @@
   <img src="https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<h5>Educational Projects</h5>
+<h5>Recent Projects</h5>
+<p>
+  <!-- First Node Website -->
+  <a href="https://protected-temple-29912.herokuapp.com/"><img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;Node.JS served website for a band, hosted on Heroku</a>
+  <a href="https://jeremyroussel.com/first-back-end-project/"><img src="https://img.shields.io/badge/Personal-%23738A94.svg?&style=for-the-badge&logo=ghost&logoColor=white"/>&nbsp;&nbsp;&nbsp;Blog Write Up</a>
+</p>
+
+<h5>Other Languages</h5>
 <p >
   <!-- Arduino -->
   <img src="https://img.shields.io/badge/arduino%20-%2300979d.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <!-- Python -->
   <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
-
 <hr>
 
 <h4>🌱 I'm currently learning...</h4>
