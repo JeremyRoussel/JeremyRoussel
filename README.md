@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/javascript%20-%238B8B8B.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <!-- JQuery -->
   <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
+  <!-- D3 -->
+  <img src="https://img.shields.io/badge/d3.js%20-%23F9A03C.svg?&style=for-the-badge&logo=d3.js&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <h5> Backend</h5>
