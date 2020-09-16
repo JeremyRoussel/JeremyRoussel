@@ -22,14 +22,14 @@
 
 <h5> Frontend</h5>
 <p >
+  <!-- React -->
+  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <!-- HTML 5 -->
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <!-- CSS -->
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/javascript%20-%238B8B8B.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <!-- JQuery -->
-  <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
   <!-- D3 -->
   <img src="https://img.shields.io/badge/d3.js%20-%23F9A03C.svg?&style=for-the-badge&logo=d3.js&logoColor=white" />&nbsp;&nbsp;
 </p>
@@ -69,8 +69,8 @@
 
 <h4>🌱 I'm currently learning...</h4>
 <p >
-  <!-- React -->
-  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <!-- Next.js -->
+  <img src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <!-- MongoDB -->
   <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
