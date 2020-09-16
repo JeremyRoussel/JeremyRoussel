@@ -47,7 +47,7 @@
   <h4>
   1) 
   <!-- Rock Catalogue -->
-  <a href="http://ec2-3-136-155-142.us-east-2.compute.amazonaws.com/">React App for a laboratory sample catalogue, hosted on AWS &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://ec2-3-131-94-10.us-east-2.compute.amazonaws.com">React App for a laboratory sample catalogue, hosted on AWS &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://jeremyroussel.com/tag/tuturials/">Blog Write Ups &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Personal-%23738A94.svg?&style=for-the-badge&logo=ghost&logoColor=white"/></a>
   </h4>
   <h4>
