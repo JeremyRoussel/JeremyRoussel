@@ -23,7 +23,7 @@
 <h5> Frontend</h5>
 <p >
   <!-- React -->
-  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />&nbsp;&nbsp;&nbsp;
   <!-- Next.js -->
   <img src="https://img.shields.io/badge/Next.js%20-%FFFFFF.svg?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
 </p>
