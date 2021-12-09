@@ -25,7 +25,7 @@
   <!-- React -->
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />&nbsp;&nbsp;&nbsp;
   <!-- Next.js -->
-  <img src="https://img.shields.io/badge/Next.js%20-%FFFFFF.svg?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Next.js-000000?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <h5> Backend</h5>
@@ -35,7 +35,7 @@
   <!-- PostgreSQL -->
   <img src="https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <!-- GraphQL -->
-  <img src="https://img.shields.io/badge/GraphQL%20-%E10098.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GraphQL%20-E10098.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- <h5>Recent Projects</h5>
