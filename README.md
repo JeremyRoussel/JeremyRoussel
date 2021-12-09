@@ -68,7 +68,7 @@
   <!-- MongoDB -->
 <!--   <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp; -->
   <!-- DAML -->
-  <img src="https://img.shields.io/badge/daml%20-%2347A248.svg?" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DAML%20-%2347A248.svg?" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <p>
